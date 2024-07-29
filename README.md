@@ -1,4 +1,4 @@
 **First JavaScript Project** 
 
+![calculator](https://github.com/user-attachments/assets/9d91d575-bdd6-44c7-8e12-3338ffe85f82)
 
-![calculator](https://github.com/user-attachments/assets/c1fee496-2982-4a5f-a301-9ab43f3e5892)
