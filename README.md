@@ -1,6 +1,12 @@
 
 # JavaScript Calculator
 
+<hr>
+
+**A JavaScript-based calculator application designed to perform basic arithmetic operations with a clean and intuitive user interface, showcasing foundational JavaScript skills**
+
+<hr><br>
+
 <table>
   <tr>
     <td style="width: 30%;">
@@ -22,11 +28,6 @@ To run this calculator locally, follow these steps:
     cd javascript-calculator
     ```
 3. **Open `index.html` in your web browser** to start using the calculator.</p>
-    </td>
-    <tr><td>
-      <h2>Features</h2>
-    </td>
-  </tr>
 </table>
 
 
