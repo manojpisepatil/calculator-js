@@ -7,7 +7,17 @@
       <img src="https://github.com/user-attachments/assets/9d91d575-bdd6-44c7-8e12-3338ffe85f82" alt="Calculator" width="300">
     </td>
     <td style="width: 70%; padding-left: 20px;">
-      <p>This JavaScript Calculator is a sleek, modern, and fully functional calculator that offers a smooth and interactive experience. It's designed with a focus on simplicity and usability, making it an ideal tool for both basic and advanced calculations.</p>
+      <p>To run this calculator locally, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/manojpisepatil/javascript-calculator.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd javascript-calculator
+    ```
+3. **Open `index.html` in your web browser** to start using the calculator.</p>
     </td>
     <tr><td>
       <h2>Features</h2>
